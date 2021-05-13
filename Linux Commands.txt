@@ -1,0 +1,19 @@
+clear
+cd /users
+mkdir dharma
+chmod 777 dharma
+touch myfirstproject
+vi myfirstproject
+this is my first vsc project
+:wq!
+cp /users/dharma myfirstproject /users/viswa 
+mv /users/dharma myfirstproject /users/viswa
+cat myfirstproject
+exit
+
+echo
+1
+2
+3
+ls aftr
+cat
