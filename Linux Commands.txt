@@ -6,9 +6,7 @@ touch myfirstproject
 vi myfirstproject
 this is my first vsc project
 :wq!
-cp /users/dharma myfirstproject /users/viswa 
-mv /users/dharma myfirstproject /users/viswa
-cat myfirstproject
+
 exit
 
 echo
