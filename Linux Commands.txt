@@ -1,4 +1,3 @@
-clear
 cd /users
 mkdir dharma
 chmod 777 dharma
